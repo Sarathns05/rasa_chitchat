@@ -113,6 +113,10 @@ nlu:
     - I'm all for it.
     - I'm on board with that.
     - of course
+    - okey
+    - okay then
+    - okay that's fine
+    - okay sounds good
     - that sounds good
     - correct
 
@@ -385,6 +389,7 @@ nlu:
     - What are sleep disorders?
     - Describe sleeping issues for me. 
     - sleep disorders are
+    - details about sleep disorders
     - tell me about sleeping disorders
     - Describe sleeping disorders
     - Detailing sleep disorders

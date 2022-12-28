@@ -182,16 +182,12 @@ responses:
 
   utter_treatment:
   - text: "The first step to being diagnosed is to visit a doctor for a medical evaluation. Certain medications, and some medical conditions such as thyroid disorder, can cause similar symptoms as depression. A doctor can rule out these possibilities by conducting a physical examination, interview and lab tests. If the doctor eliminates a medical condition as a cause, he or she can implement treatment or refer the patient to a mental health professional. \n
-
           Once diagnosed, a person with depression can be treated by various methods. The mainstays of treatment for depression are any of a number of antidepressant medications and psychotherapy, which can also be used in combination."
 
   - text: " Doctors can choose from several different types of anti-depressants (sometimes combined with psychotherapy) based on a person's symptoms and tolerance for the medication. Because they are unable to tell how well a person will respond to an anti-depressant in advance, a person may need to try several different medications or combinations of medications to alleviate symptoms.
 
           It takes six to eight weeks for most people to feel the full effect of anti-depressant medication, and most are prescribed for six months to a year, and sometimes longer. People with chronic major depression may need to take anti-depressants indefinitely. A person with depression should never stop taking anti-depressants without first talking to a doctor.
-
-          The major types of anti-depressant medications are:
-
-          Selective serotonin and norepinephrine reuptake inhibitors (SSNRIs)"
+          The major types of anti-depressant medications are: \nSelective serotonin and norepinephrine reuptake inhibitors (SSNRIs)"
   - text: "Depression is treated in a variety of ways.
 
           Psychotherapy

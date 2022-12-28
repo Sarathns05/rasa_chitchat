@@ -27,6 +27,7 @@ stories:
   - action: utter_cheer_up
   - action: utter_did_that_help
   - intent: deny
+  - action: utter_watch_tv
 
 - story: bot_intro
   steps:
