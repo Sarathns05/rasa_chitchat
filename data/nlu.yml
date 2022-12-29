@@ -93,6 +93,7 @@ nlu:
     - ya
     - sure
     - ya sure
+    - yeah exactly
     - indeed
     - Absolutely.
     - Agreed.
@@ -392,7 +393,15 @@ nlu:
     - details about sleep disorders
     - tell me about sleeping disorders
     - Describe sleeping disorders
+    - Explain sleeping issues for me. 
+    - overview of sleep disorders
+    - Sleep disorders explanation
+    - can you explain about sleep disorders
     - Detailing sleep disorders
+    - explain me sleep disorders
+    - briefly explain sleep disorders
+    - provide information on sleeping disorders
+    - like to know about sleep disorders
     - Could you provide more information? 
     - Sleep disorders: what are they? 
     - types of sleep disorders
@@ -523,15 +532,23 @@ nlu:
     - Could you tell me more about depression?
     - What are some common characteristics of depression?
     - definition of depression
+    - i want an explanation on depression
     - provide a definition of depression
-    - Can you depression to me?
+    - Can you explain depression to me?
     - tell me more about depression
+    - want to know about depression
     - need a detailed explanation of depression?
     - common characteristics of depression
     - brief overview of depression
+    - explain deppression
+    - brief explanation of depression
     - give me a brief overview of depression
     - information on depression
     - provide more information on depression
+    - provide a brief explanation on depression
+    - give more information on depression
+    - I'd like to know more about depression
+    - Can you provide more detail?    
     - Could you provide more detail about depression?
     - explain what depression is
     - characteristics of depression
@@ -551,10 +568,10 @@ nlu:
     - how to identify that i am depressed ?
     - preliminary signs of depression 
     - Could you describe the typical symptoms of depression?
-    - Could you describe the typical symptoms
     - What are the common indicators of depression?
     - provide a list of early symptoms of depression?
     - symptoms that may be present during depression
+    - Could you describe the typical symptoms
     - common indicators of depression
     - what are common symptoms of depression ?
     - How can I tell if I'm experiencing depression?
@@ -562,6 +579,10 @@ nlu:
     - What are some early warning signs of depression?
     - Could you list some of the common symptoms
     - key signs of depression
+    - give more information on symptoms of depression
+    - I'd like to know more about symptoms of depression  
+    - Could you provide more detail about symptoms of depression?
+    - explain what the symptoms of depression are 
     - early warning signs of depression?
     - describe the typical symptoms of depression?
 
@@ -577,12 +598,15 @@ nlu:
     - common types of depresion.
     - prevalent depressions 
     - different types
+    - Explain different types of depression.
     - describe the common types of depression?
     - different kinds of depression 
+    - Describe different types of depression.
     - How many types of depression are there?
     - most prevalent forms of depression
     - list the different types of depression?
     - different categories of depression
+    - Explain various forms of depression
     - Are there different kinds of depression?
     - Could you provide a list of the various types of depression?
     - various types of depression
@@ -639,16 +663,29 @@ nlu:
     - Are females more prone to depression? 
     - Why are women more likely to get depression?
     - why depression is more common in women 
+    - risk of depression in women
     - Why do women experience depression more frequently? 
     - is depression more common in women than in men ?
+    - provide some insights on depression in women
+    - discuss the risk of developing depression in women
     - Are women more likely than males to experience depression? 
     - why women are more prone to depression than man ?
     - Depression is more likely to affect women. 
+    - impact of depression in females
+    - depression in females.
     - why women are more prone to depression. 
     - Do women have a higher risk of depression? 
     - depression in men vs women. 
     - tell me about depression in women
     - describe depression in women 
+    - prevalence of depression among women compared to men?
+    - provide some information on the increased risk of depression in women?
+    - Could you explain the reasons why women may be more prone to depression
+    - factors that contribute to the incidence of depression in women?
+    - gender-based difference in the prevalence of depression
+    - Can you discuss the risk of developing depression in women?
+    - How does the females impact the incidence of depression?
+    - provide some insights on why women may be more prone to depression 
   
 - intent: repetition
   examples: |
@@ -673,6 +710,16 @@ nlu:
     - chances of reoccuring of depression ?
     - Could I experience another episode of depression
     - risks of depression returning? 
+    - Is there a chance that my depression will come back?
+    - Is it possible for me to experience another episode of depression?
+    - Could I face the risk of my depression returning?
+    - Is there a likelihood that I may suffer from depression again?
+    - How common is it for people who have had depression to experience a recurrence?
+    - Is there a possibility that I could have to deal with depression once more?
+    - What are the chances of my depression returning?
+    - Could I be at risk for experiencing another episode of depression?
+    - Is it possible for me to suffer from depression again?
+    - How likely is it that my depression will come back?
     - will i suffer from it again ?
 
 
@@ -700,6 +747,14 @@ nlu:
     - Can senior citizens experience depression?"
     - Is depression common among older adults?"
     - What are the rates of depression in seniors?"
+    - Are adults at risk for developing depression?
+    - Is depression a common issue for adults?
+    - Do older adults often struggle with depression?
+    - Is it possible for adults to experience depression?
+    - Is depression prevalent in the adult population?
+    - Do seniors face a higher risk of depression?
+    - Is it common for older adults to experience depression?
+    - How frequently do adults experience depression?
     - Can older people experience depression?"
     - What is the likelihood of an adult experiencing depression?"
     
@@ -725,6 +780,22 @@ nlu:
     - Do you think I'm experiencing depression?
     - Could I be experiencing depression?
     - Do I currently have depression?
+    - Is it possible that I am currently experiencing depression?
+    - Could I be suffering from depression?
+    - Do my symptoms indicate that I may have depression?
+    - Do you think I am showing signs of depression?
+    - Is it possible that I am struggling with depression?
+    - Do you think I may be experiencing depression?
+    - Could I be experiencing the symptoms of depression?
+    - Do you think I may be dealing with depression?
+    - Is it possible that I am currently experiencing depression?
+    - Do my symptoms suggest that I may be suffering from depression?
+    - Do you think I may be showing signs of depression?
+    - Is it possible that I am currently struggling with depression?
+    - Do you think I may be experiencing the symptoms of depression?
+    - Could I be dealing with depression?
+
+
     - Am I experiencing the symptoms of depression?
     - Do you think I may be struggling with depression?
 
@@ -749,9 +820,13 @@ nlu:
     - Why do some people experience depression?
     - explain the reasons why people get depressed?
     - What causes depression in individuals?
+    - factors contribute to the occurence of depression?
     - typical reasons for depression?
     - Why do I feel down? Could it be due to depression?
     - possible causes of my depression?
+    - What are the potential causes of depression?
+    - What might be the underlying causes of depression?
+    - What are some of the common reasons that people experience depression?
     - provide an overview of the causes of depression?
     - I'm curious about the common causes of depression. Could you provide more information?
     - reasons why people get depressed?
